@@ -18,6 +18,4 @@ const MunroSelector = ({munros, onMunroSelected}) => {
                 </select>
         );
     };
-
-
 export default MunroSelector;
